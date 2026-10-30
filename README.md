@@ -1,486 +1,123 @@
-# CyberFolio
-
-Create a jaw-dropping futuristic developer portfolio called "Cyberpunk Portfolio 2077".
-
-This should NOT look like a normal portfolio.
-
-It should feel like opening a classified futuristic AI operating system made by a top engineer.
-
-Design Inspiration:
-
-- Cyberpunk 2077
-
-- Iron Man JARVIS
-
-- Apple Vision Pro
-
-- Tron Legacy
-
-- Interstellar UI
-
-- Neural Interfaces
-
-- Holographic HUD
-
-- Glassmorphism
-
-- Premium Apple-level animations
-
-Color Palette
-
-- Background: #050816
-
-- Neon Cyan
-
-- Electric Blue
-
-- Purple
-
-- Neon Pink accents
-
-- Soft white typography
-
-Overall Theme
-
-Imagine the visitor is connecting to my neural network.
-
-Startup Sequence:
-
-> Establishing Neural Connection...
-
-> Identity Verified
-
-> Loading Projects...
-
-> Synchronizing AI Memory...
-
-> Welcome, Visitor.
-
-After loading, reveal the portfolio with cinematic transitions.
-
-----------------------------------------------------
-
-Navigation
-
-Floating transparent navigation.
-
-Sections
-
-Home
-
-About
-
-Experience
-
-Projects
-
-Skills
-
-Achievements
-
-Contact
-
-Scrolling should feel buttery smooth.
-
-----------------------------------------------------
-
-Hero Section
-
-Huge holographic title
-
-ASHUTOSH PALHARE
-
-Subtitle
-
-Software Developer
-
-AI Enthusiast
-
-Full Stack Engineer
-
-Problem Solver
-
-Show animated typing effect.
-
-Background
-
-Animated cyber grid
-
-Floating particles
-
-Moving light beams
-
-Subtle fog
-
-Glowing gradients
-
-Mouse movement should create parallax.
-
-On right side
-
-3D holographic profile card
-
-Card rotates slightly with cursor.
-
-Buttons
-
-Explore Projects
-
-Download Resume
-
-Contact Me
-
-----------------------------------------------------
-
-AI Assistant
-
-Bottom-right floating AI assistant.
-
-It says
-
-"Hello Visitor.
-
-I'm Ashutosh's AI clone.
-
-Ask me anything."
-
-Suggested questions
-
-Who are you?
-
-Show projects
-
-Skills?
-
-Experience?
-
-Contact
-
-Responses should use the portfolio data naturally.
-
-----------------------------------------------------
-
-About Section
-
-Instead of paragraphs,
-
-Show a futuristic digital identity card.
-
-Display
-
-Name
-
-Location
-
-Education
-
-Current Status
-
-Passion
-
-Mission
-
-Reveal line by line with animations.
-
-----------------------------------------------------
-
-Timeline
-
-Create a vertical glowing timeline.
-
-Include education, internships, experience and milestones from my existing portfolio.
-
-Timeline should animate while scrolling.
-
-----------------------------------------------------
-
-Projects
-
-Transform projects into floating holographic cards.
-
-Each project card should have
-
-Project Image
-
-Project Name
-
-Description
-
-Technology Stack
-
-GitHub Button
-
-Live Demo Button
-
-Hover animation
-
-- lift
-
-- glow
-
-- neon border
-
-- animated background
-
-Clicking opens a cinematic project modal.
-
-----------------------------------------------------
-
-Skills
-
-Instead of progress bars,
-
-Create a futuristic skill sphere.
-
-Organize into
-
-Frontend
-
-Backend
-
-AI
-
-Database
-
-Cloud
-
-Tools
-
-Each skill glows.
-
-Hover displays experience.
-
-----------------------------------------------------
-
-Achievements
-
-Create holographic achievement cards.
-
-Each unlocks with animation.
-
-----------------------------------------------------
-
-GitHub Section
-
-Connect GitHub dynamically.
-
-Show
-
-Repositories
-
-Stars
-
-Contribution graph
-
-Languages
-
-Latest activity
-
-Display everything with futuristic charts.
-
-----------------------------------------------------
-
-Experience
-
-Represent work experience as mission logs.
-
-Mission Name
-
-Organization
-
-Duration
-
-Responsibilities
-
-Status
-
-Completed
-
-Active
-
-----------------------------------------------------
-
-Contact
-
-Create a holographic communication console.
-
-Fields
-
-Name
-
-Email
-
-Message
-
-Animated Send button.
-
-After submission
-
-Transmission Successful.
-
-----------------------------------------------------
-
-Cursor
-
-Replace normal cursor.
-
-Create glowing futuristic cursor.
-
-Cursor expands over buttons.
-
-Leaves neon trail.
-
-----------------------------------------------------
-
-Animations
-
-Everything must animate.
-
-Requirements
-
-Framer Motion
-
-Smooth page transitions
-
-Section reveal
-
-Parallax
-
-3D hover
-
-Glow pulse
-
-Text reveal
-
-Magnetic buttons
-
-Floating objects
-
-Mouse reactive lighting
-
-----------------------------------------------------
-
-Background
-
-Animated
-
-Grid
-
-Stars
-
-Particles
-
-Aurora
-
-Moving gradients
-
-Glowing circles
-
-Everything should feel alive.
-
-----------------------------------------------------
-
-Sound (Optional)
-
-Soft UI click
-
-Startup sound
-
-Hover effects
-
-----------------------------------------------------
-
-Performance
-
-Fast loading
-
-Responsive
-
-SEO optimized
-
-Accessibility compliant
-
-----------------------------------------------------
-
-Tech Stack
-
-Next.js
-
-React
-
-TypeScript
-
-Tailwind CSS
-
-Framer Motion
-
-Three.js (only where it enhances UX)
-
-GSAP (optional)
-
-Lucide Icons
-
-----------------------------------------------------
-
-Portfolio Content
-
-Use the content from my current portfolio:
-
-https://ashutoshpalhare.github.io
-
-Extract and reuse:
-
-- About information
-
-- Education
-
-- Experience
-
-- Skills
-
-- Projects
-
-- Certifications
-
-- Contact information
-
-- Social links
-
-- Resume link
-
-- GitHub profile
-
-Do not invent details if they are unavailable.
-
-----------------------------------------------------
-
-Final Goal
-
-The finished website should not resemble a traditional portfolio.
-
-It should feel like entering a futuristic AI command center built by an elite engineer.
-
-Every interaction should create a "WOW" moment.
-
-Prioritize premium UI, immersive animations, cinematic transitions, glassmorphism, holographic effects, and an unforgettable first impression while maintaining usability and responsiveness.
-
-This project was built with [Lovable](https://lovable.dev).
-
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/ce9baa38-22b0-472f-aa98-05f5a18085b4).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
-
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
+# CyberFolio — Neural Portfolio 2077
+
+A cyberpunk-inspired, single-page developer portfolio that presents a profile as a futuristic command-center interface. CyberFolio combines a cinematic boot sequence, motion-driven sections, holographic-style cards, and a small rule-based portfolio assistant.
+
+> **Project status:** Portfolio UI / personal-site experiment. Review the profile content and replace all sample data before treating the site as an accurate public CV. The current project dataset contains placeholder project entries and hard-coded GitHub figures.
+
+## Overview
+
+CyberFolio is built around a deliberately immersive interface rather than a conventional portfolio layout. Visitors move through the profile using a floating navigation bar and anchored sections.
+
+The experience includes:
+
+- **Boot sequence** — an introductory startup animation before the portfolio is revealed.
+- **Animated portfolio interface** — cyber-grid backgrounds, neon accents, a custom cursor, hover effects, and Framer Motion transitions.
+- **Profile and experience** — identity details, experience cards, and a chronological timeline driven by local data.
+- **Project gallery** — project cards with descriptions, technology tags, images, repository links, and demo links.
+- **Skills and achievements** — grouped skill collections and achievement cards.
+- **GitHub overview** — a visual GitHub-style section whose current figures and activity samples are static data, not live GitHub API results.
+- **Portfolio assistant** — answers a limited set of common questions using local portfolio data.
+
+## Important implementation notes
+
+A few distinctions matter when evaluating this project:
+
+- The assistant is **rule-based**, not an LLM chatbot. It matches question keywords such as projects, skills, experience, contact, resume, and GitHub, then formats answers from `src/lib/portfolio-data.ts`. It does not call OpenAI or another AI API.
+- The GitHub metrics, contribution cells, and activity examples in the portfolio dataset are **hard-coded sample values**. They are not fetched from GitHub.
+- The project list currently includes generic sample entries and profile links. Update the data and verify every repository/demo URL before publishing the site as a factual portfolio.
+- The visual interface uses a futuristic theme, but it is still a portfolio frontend; it does not implement a real neural interface or authentication system.
+
+## Tech stack
+
+| Area | Technology |
+| --- | --- |
+| UI | React 19, TypeScript |
+| Routing / app framework | TanStack React Router, TanStack Start |
+| Build tooling | Vite |
+| Styling | Tailwind CSS 4 |
+| Animation | Framer Motion |
+| UI primitives | Radix UI-based components |
+| Charts | Recharts (dependency available in the project) |
+| Icons | Lucide React, React Icons |
+
+## Project structure
+
+```text
+.
+├── src/
+│   ├── components/
+│   │   ├── AIAssistant.tsx
+│   │   ├── Background.tsx
+│   │   ├── BootSequence.tsx
+│   │   ├── Cursor.tsx
+│   │   └── ui/
+│   ├── lib/
+│   │   └── portfolio-data.ts
+│   ├── routes/
+│   │   ├── __root.tsx
+│   │   └── index.tsx
+│   ├── router.tsx
+│   ├── server.ts
+│   └── styles.css
+├── public/
+├── package.json
+└── vite.config.ts
 ```
+
+The main portfolio content is centralized in `src/lib/portfolio-data.ts`. This includes the profile, timeline, experience, projects, skill groups, achievements, and GitHub display data.
+
+## Getting started
+
+### Prerequisites
+
+- [Bun](https://bun.sh/) (recommended; the repository includes `bun.lock`)
+- Git
+
+### Install and run
+
+```bash
+git clone https://github.com/ashutoshpalhare/CyberFolio.git
+cd CyberFolio
+bun install
+bun run dev
+```
+
+Vite prints the local development URL in the terminal.
+
+### Available scripts
+
+| Command | Description |
+| --- | --- |
+| `bun run dev` | Start the development server |
+| `bun run build` | Create a production build |
+| `bun run build:dev` | Build using development mode |
+| `bun run preview` | Preview the production build locally |
+| `bun run lint` | Run ESLint |
+| `bun run format` | Format project files with Prettier |
+
+## Personalizing the portfolio
+
+1. Open `src/lib/portfolio-data.ts`.
+2. Replace the profile, education, experience, projects, skills, achievements, and contact details with verified information.
+3. Replace all sample project images and links with the correct assets, source repositories, and live demos.
+4. Replace the hard-coded GitHub metrics and activity samples, or clearly label them as illustrative.
+5. Review the assistant's responses so they reflect the updated data.
+6. Check the site on mobile and desktop, and verify all external links before deployment.
+
+Do not publish placeholder projects, unverified metrics, or experience claims as real achievements.
+
+## Current limitations
+
+- No backend database or authentication layer is implemented for portfolio content.
+- The assistant uses local keyword matching and predefined response logic; it does not generate answers with an LLM.
+- GitHub summary values are static and can become outdated.
+- Project content is maintained in a TypeScript data file rather than a CMS.
+- A contact UI should not be assumed to deliver messages unless a working submission service is configured and tested.
+
+## Contributing
+
+This repository is primarily a personal portfolio project. If you find a bug or want to suggest an improvement, open an issue with reproduction steps and the expected behaviour. Keep changes focused and avoid adding dependencies for effects that can be implemented with the existing stack.
+
+## License
+
+No license file is currently included. Unless a license is added, the repository is publicly viewable but reuse and redistribution are not automatically granted.
